@@ -1,0 +1,50 @@
+{
+	"bans":{
+		"exampleuniqueid":{
+			"user": "...",
+			"when": 1234123,
+			"reason": "...",
+			"unban": 1,
+			"by": "Ochibusya"
+		}
+	},
+	
+	"admins":{
+		"exampleuniqueid":{
+			"user": "Ochibusya",
+			"role": "Owner",
+			"rank": 5,
+			"selfIntro": "I love cat."
+		}
+	},
+	
+	"randomPickup":[
+		"Welcome to this server!",
+		"Do you know how difficult to study Lua?",
+		"System will warning/ban/blacklist. Check out rules!",
+		"Owner likes a cat. Do you like too?",
+		"Server addon is wrote by Lua.",
+		"admins in database include self_intro!",
+		"DO NOT SAY \"!heli\", System is not smarter than you thought.",
+		"I would like to eat something sweet. Do you want too?"
+		],
+	
+	"rigsay":[
+		"Anything is going to be ok. trust me.",
+		"Do you like chocolate cake?",
+		"Oh no, something is wrong... yet.",
+		"I don't like Ochibusya, Do you know his weak point?",
+		"Hmm... You seems cool, Maybe.",
+		"Helloooooooooo",
+		"I watched Reze arc Chainsaw man. It was masterpiece!",
+		"gEt ouT My HEaD GeT oUT mY heAd geT OUt MY hEaD gET OuT my HeAd Get ouT mY HEaD gEt Out mY HeaD!",
+		"Do you know how to crush the System? I know it!",
+		"Is this real? or...",
+		"Where is builder? I want them to work right now!",
+		"Where is Ochibusya? I would like to kill him :P",
+		"if you are smart, Answer me. 5 multiplied by 12 equals?",
+		"Do not remember that sky, that shiny red...",
+		"WOOOOFOOOOOO without REASONABLE!!!",
+		"So yeah, I ate pancake during nuke event."
+		]
+}
